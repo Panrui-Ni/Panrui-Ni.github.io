@@ -1,26 +1,15 @@
 ---
-title: "Viscosity solutions of contact Hamilton-Jacobi equations with Hamiltonians depending periodically on unknown functions"
+title: "Paper Title Number 1"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the ergodic problem and large time behavior of H-J equations when the Hamiltonian is periodic in the unknown function.'
-date: 2023-03-01
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
 venue: 'Journal 1'
-paperurl: 'https://www.aimsciences.org//article/doi/10.3934/cpaa.2023005'
-citation: 'P. Ni, K. Wang, and J. Yan, “Viscosity solutions of contact Hamilton-Jacobi equations with Hamiltonians
-depending periodically on unknown functions,” Communications on Pure and Applied Analysis, 22 (2023), 668--685.'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+This paper is about the number 1. The number 2 is left for future work.
 
-This paper is about the existence of solutions of
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-H(x,Du(x),u(x))=c,
-
-and the large time behavior of solutions of
-
-∂_t u(x,t)+H(x,∂_x u(x,t),u(x,t))=0
-
-where the Hamiltonian H is periodic in the unknown function u. We prove that the set of all c's such that the first equation has viscosity solutions is a compact interval. We also proved that the solutions of the second equation is uniformly bounded and equi-Lipschitz continuous when the first equation is solvable.
-
-[Download paper here](https://www.aimsciences.org//article/doi/10.3934/cpaa.2023005)
-
-Recommended citation: P. Ni, K. Wang, and J. Yan, “Viscosity solutions of contact Hamilton-Jacobi equations with Hamiltonians
-depending periodically on unknown functions,” Communications on Pure and Applied Analysis, 22 (2023), 668--685.
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
