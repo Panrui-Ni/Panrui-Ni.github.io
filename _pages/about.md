@@ -16,7 +16,7 @@ Here is my email address: [prni18@fudan.edu.cn](prni18@fudan.edu.cn) and my [res
 
 Education
 ======
-Sep. 2018 –- Jun. 2023: PhD, [Fudan University](https://www.fudan.edu.cn/), Shanghai, China. Major: Mathematics. Thesis title: Viscosity solutions of contact-type Hamilton-Jacobi equations.
+Sep. 2018 -- Jun. 2023: PhD, [Fudan University](https://www.fudan.edu.cn/), Shanghai, China. Major: Mathematics. Thesis title: Viscosity solutions of contact-type Hamilton-Jacobi equations.
 
 Sep. 2014 -- Jun. 2018: Bachelor, [Southeast University](https://www.seu.edu.cn/), Nanjing, China. Major: Engineering Mechanics. Thesis title: Variational principle for contact Hamiltonian systems and its applications.
 
