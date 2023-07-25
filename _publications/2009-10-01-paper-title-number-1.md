@@ -1,6 +1,5 @@
 ---
-title: "Viscosity solutions of contact hamilton-jacobi equations with hamiltonians
-depending periodically on unknown functions"
+title: "Viscosity solutions of contact Hamilton-Jacobi equations with Hamiltonians depending periodically on unknown functions"
 collection: publications
 permalink: /publication/2023-02-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
