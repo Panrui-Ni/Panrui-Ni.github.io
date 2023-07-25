@@ -11,10 +11,14 @@ depending periodically on unknown functions,” Communications on Pure and Appli
 ---
 
 This paper is about the existence of solutions of
-\[H(x,Du(x),u(x))=c,\quad x\in M\]
+
+H(x,Du(x),u(x))=c,
+
 and the large time behavior of solutions of
-\[\partial_t u(x,t)+H(x,Du(x,t),u(x,t))=c,\quad (x,t)\in M\times (0,+\infty),\]
-where the Hamiltonian is periodic in the unknown function. We prove that the set of all c such that the first equation has solutions is a compact interval. We also proved that the solutions of the second equation is uniformly bounded and equi-Lipschitz when the first equation is solvable.
+
+∂_t u(x,t)+H(x,∂_x u(x,t),u(x,t))=0
+
+where the Hamiltonian H is periodic in the unknown function u. We prove that the set of all c's such that the first equation has viscosity solutions is a compact interval. We also proved that the solutions of the second equation is uniformly bounded and equi-Lipschitz continuous when the first equation is solvable.
 
 [Download paper here](https://www.aimsciences.org//article/doi/10.3934/cpaa.2023005)
 
