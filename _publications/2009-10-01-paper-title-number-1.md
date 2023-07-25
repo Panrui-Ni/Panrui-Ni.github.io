@@ -3,7 +3,7 @@ title: "Viscosity solutions of contact Hamilton-Jacobi equations with Hamiltonia
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2023-03
 venue: 'Journal 1'
 paperurl: 'https://www.aimsciences.org//article/doi/10.3934/cpaa.2023005'
 citation: 'P. Ni, K. Wang, and J. Yan, “Viscosity solutions of contact Hamilton-Jacobi equations with Hamiltonians
