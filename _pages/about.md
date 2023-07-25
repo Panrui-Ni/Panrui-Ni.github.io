@@ -41,4 +41,4 @@ Conference Activities
 ------
 Jul. 2022: Conference on Differential Equations and Dynamical Systems, Beijing Institue of Technology, Invited speaker. Title: A nonlinear semigroup approach to a class of nonmonotone Hamilton-Jacobi equations.
 
-Jun. 2023: PDE reading seminar online, Invited speaker. Title: [Hamilton-Jacobi equations depending Lipschitz continuously on the unknown function](https://www.youtube.com/watch?v=bGkbiBCq85U).
+Jun. 2023: PDE reading seminar online, Invited speaker. Title: Hamilton-Jacobi equations depending Lipschitz continuously on the unknown function, here is the [link](https://www.youtube.com/watch?v=bGkbiBCq85U).
