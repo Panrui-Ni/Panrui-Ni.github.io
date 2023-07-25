@@ -43,4 +43,5 @@ Jul. 2022: Conference on Differential Equations and Dynamical Systems, Beijing I
 
 Jun. 2023: PDE reading seminar online, Invited speaker. Title: [Hamilton-Jacobi equations depending Lipschitz continuously on the unknown function](https://www.youtube.com/watch?v=bGkbiBCq85U).
 
+Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
