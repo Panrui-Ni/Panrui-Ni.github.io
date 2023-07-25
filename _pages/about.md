@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellowship at [Institut de Mathématiques de Jussieu-Paris Rive Gauche](https://www.imj-prg.fr/), and got my PhD degree from [Shanghai Center for Mathematical Sciences](https://scms.fudan.edu.cn/). is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a postdoctoral fellow at [Institut de Mathématiques de Jussieu-Paris Rive Gauche](https://www.imj-prg.fr/), and obtained my PhD degree from [Shanghai Center for Mathematical Sciences](https://scms.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/). My research interest includes Hamiltonian systems, Hamilton-Jacobi Equations, Aubry-Mather Theory, Weak KAM Theory and Mean Field Games.
 
 A data-driven personal website
 ======
