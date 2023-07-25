@@ -2,7 +2,7 @@
 title: "Viscosity solutions of contact Hamilton-Jacobi equations with Hamiltonians depending periodically on unknown functions"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about the ergodic problem and large time behavior of H-J equations when the Hamiltonian is periodic in the unknown function.'
 date: 2023-03
 venue: 'Journal 1'
 paperurl: 'https://www.aimsciences.org//article/doi/10.3934/cpaa.2023005'
