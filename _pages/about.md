@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow at [Institut de Mathématiques de Jussieu-Paris Rive Gauche](https://www.imj-prg.fr/), and obtained my PhD degree from [Shanghai Center for Mathematical Sciences](https://scms.fudan.edu.cn/). My research interest includes Hamiltonian systems, Hamilton-Jacobi Equations, Aubry-Mather Theory, Weak KAM Theory and Mean Field Games.
+I am a postdoctoral fellow at [Institut de Mathématiques de Jussieu-Paris Rive Gauche](https://www.imj-prg.fr/), and obtained my PhD degree from [Shanghai Center for Mathematical Sciences](https://scms.fudan.edu.cn/). My research interest includes Hamiltonian systems, Hamilton-Jacobi Equations, Aubry-Mather Theory, Weak KAM Theory and Mean Field Games. Here is my email address: [prni18@fudan.edu.cn](prni18@fudan.edu.cn) and my [researchgate homepage](https://www.researchgate.net/profile/Panrui-Ni).
 
 Education
 ======
