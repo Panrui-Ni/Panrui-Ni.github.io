@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Calculus"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "School of Mathematical Sciences, Fudan University"
+date: 2021-02-01
+location: "Shanghai, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The course is Calculus (BII) and mainly about series, multivariable calculus and ordinary differential equations.
 
 Heading 1
 ======
