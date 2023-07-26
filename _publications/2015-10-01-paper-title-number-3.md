@@ -3,7 +3,7 @@ title: "“Multiple asymptotic behaviors of solutions in the generalized vanishi
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about a counter example for vanishing discount problem when the Hamiltonian is non-monotone in the unknown function.'
-date: 2015-10-01
+date: 2023-2-01
 venue: 'Proceedings of the American Mathematical Society'
 paperurl: 'https://doi.org/10.1090/proc/16420'
 citation: 'P. Ni, Multiple asymptotic behaviors of solutions in the generalized vanishing discount problem, Proceedings of the American Mathematical Society, published online.'
