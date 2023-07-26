@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: " Classical Mechanics"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "School of Matthematical Sciences, Fudan University"
+date: 2020-09-01
+location: "Shanghai, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The course is Classical Mechanics, and mainly about Lagrangian and Hamiltonian mechanics, calculus of variations and Hamilton-Jacobi equations. The duty of the teaching assistant position is to assist the teacher to carry out orderly teaching work, correct students’ homework, teach exercise classes, and answer questions in a timely manner.
 
 Heading 1
 ======
