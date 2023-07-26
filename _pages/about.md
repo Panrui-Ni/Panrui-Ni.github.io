@@ -25,8 +25,8 @@ Publications
 1. P. Ni, Multiple asymptotic behaviors of solutions in the generalized vanishing discount problem, Proceedings of the American Mathematical Society. [link](https://doi.org/10.1090/proc/16420)
 2. P. Ni, K. Wang, and J. Yan, A weakly coupled mean field games model of first order for k groups of major players, Proceedings of the American Mathematical Society. [link](https://doi.org/10.1090/proc/16342)
 3. P. Ni, K. Wang, and J. Yan, Viscosity solutions of contact Hamilton-Jacobi equations with Hamiltonians
-depending periodically on unknown functions, Communications on Pure and Applied Analysis, Volume 22, Issue 2, Pages 668-685, 2023. [link](https://www.aimsciences.org//article/doi/10.3934/cpaa.2023005)
-4. P. Ni and B. Shen, On variation of action integral in Finsler gravity, Annals of Physics, Volume 404, Issue 1, Pages 93–114, 2019. [link](https://www.sciencedirect.com/science/article/abs/pii/S0003491619300430)
+depending periodically on unknown functions, Communications on Pure and Applied Analysis, Volume 22, Issue 2, Pages 668 -- 685, 2023. [link](https://www.aimsciences.org//article/doi/10.3934/cpaa.2023005)
+4. P. Ni and B. Shen, On variation of action integral in Finsler gravity, Annals of Physics, Volume 404, Issue 1, Pages 93 -- 114, 2019. [link](https://www.sciencedirect.com/science/article/abs/pii/S0003491619300430)
 5. P. Ni, L. Wang and J. Yan, A representation formula of the viscosity solution of the contact Hamilton-Jacobi equation and its application, Chinese Annals of Mathematics, Series B, accepted.
 6. P. Ni, Weakly coupled Hamilton-Jacobi systems without monotonicity condition: A first step. [link](https://arxiv.org/abs/2112.04885)
 7. P. Ni and L. Wang, A nonlinear semigroup approach to Hamilton-Jacobi equations–revisited. [link](https://arxiv.org/abs/2202.11315)
