@@ -1,15 +1,24 @@
 ---
-title: "Paper Title Number 1"
+title: "Viscosity solutions of contact Hamilton-Jacobi equations with Hamiltonians depending periodically on unknown functions"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper is about H-J equations with the Hamiltonian periodic in the unknown function.'
+date: 2023-02-01
+venue: 'Communications on Pure and Applied Analysis'
+paperurl: 'https://www.aimsciences.org//article/doi/10.3934/cpaa.2023005'
+citation: 'P. Ni, K. Wang and J. Yan, Viscosity solutions of contact Hamilton-Jacobi equations with Hamiltonians depending periodically on unknown functions, Communications on Pure and Applied Analysis, Volume 22, Issue 2, Pages 668-685, February, 2023.'
 ---
-This paper is about the number 1. The number 2222 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+This paper is about H-J equations with the Hamiltonian periodic in the unknown function. We proved that the set C of all c's such that
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+H(x,Du(x),u(x))=c
+
+has viscosity solutions is a compact interval. We also proved that the solutions of
+
+∂_t u(x,t)+H(x,∂_x u(x,t),u(x,t))=c
+
+is uniformly bounded and equi-Lipschitz continuous for all c in C.
+
+[Download paper here](https://www.aimsciences.org//article/doi/10.3934/cpaa.2023005)
+
+Recommended citation: P. Ni, K. Wang and J. Yan, Viscosity solutions of contact Hamilton-Jacobi equations with Hamiltonians depending periodically on unknown functions, Communications on Pure and Applied Analysis, Volume 22, Issue 2, Pages 668-685, February, 2023.
