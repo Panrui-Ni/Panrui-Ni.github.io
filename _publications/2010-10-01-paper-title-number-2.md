@@ -3,7 +3,7 @@ title: "A weakly coupled mean field games model of first order for k groups of m
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about a weakly coupled mean field games model of first order for k groups of major players.'
-date: online
+date: 2022-10-10
 venue: ' Proceedings of the American Mathematical Society'
 paperurl: 'https://www.ams.org/journals/proc/earlyview/#proc16342'
 citation: 'P. Ni, K. Wang, and J. Yan, A weakly coupled mean field games model of first order for k groups of major players, Proceedings of the American Mathematical Society, published online.'
