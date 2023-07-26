@@ -1,5 +1,5 @@
 ---
-title: "“Multiple asymptotic behaviors of solutions in the generalized vanishing discount problem"
+title: "Multiple asymptotic behaviors of solutions in the generalized vanishing discount problem"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about a counter example for vanishing discount problem when the Hamiltonian is non-monotone in the unknown function.'
