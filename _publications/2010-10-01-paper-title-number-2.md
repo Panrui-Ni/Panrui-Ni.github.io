@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 2"
+title: "A weakly coupled mean field games model of first order for k groups of major players"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'This paper is about a weakly coupled mean field games model of first order for k groups of major players.'
+date: online
+venue: ' Proceedings of the American Mathematical Society'
+paperurl: 'https://www.ams.org/journals/proc/earlyview/#proc16342'
+#citation: 'P. Ni, K. Wang, and J. Yan, “A weakly coupled mean field games model of first order for k groups of major players,” Proceedings of the American Mathematical Society.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+The mean field games was introduced by J.-M. Lasry and P.-L. Lions and by P. E. Caines, M. Huang and R. P. Malhamé to analyze large population stochastic differential games. The first order mean field games system is a Hamilton-Jacobi equation coupled with a continuity equation. In this model, there is a large community of identical players. The cost functional of each player is determined by the same Hamiltonian. In most real problems of economics, there is not just one major player. So it is natural to consider a system with several major players. Different kinds of major players have different Hamiltonians. We introduced a weakly coupled mean field games model of first order for k different kinds of major players. We also proved the existence of weak solutions of this kind of weakly coupled mean field games model.
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](https://www.ams.org/journals/proc/earlyview/#proc16342)
+
+#Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
