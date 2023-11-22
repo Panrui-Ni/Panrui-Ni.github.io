@@ -86,15 +86,15 @@ author:
   location         : "Paris, France"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :  "prni18@fudan.edu.cn"
+  googlescholar    :  "https://scholar.google.com/citations?user=vuoJJVEAAAAJ&hl=zh-CN"
+  email            :  "panruini@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Panrui-Ni"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
   github           : "https://github.com/Panrui-Ni"
   google_plus      :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "@NPRmath"
   vine             :
   weibo            :
   xing             : #"wxid_slzu9nawb5bj22"
