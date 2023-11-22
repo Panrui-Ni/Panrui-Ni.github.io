@@ -8,11 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow at [Institut de Mathématiques de Jussieu-Paris Rive Gauche](https://www.imj-prg.fr/), [Sorbonne Université](https://www.sorbonne-universite.fr/). I obtained my PhD degree from [Shanghai Center for Mathematical Sciences](https://scms.fudan.edu.cn/).
+I am a postdoctoral fellow at [Institut de Mathématiques de Jussieu-Paris Rive Gauche](https://www.imj-prg.fr/), [Sorbonne Université](https://www.sorbonne-universite.fr/), CNRS. I obtained my PhD degree from [Shanghai Center for Mathematical Sciences](https://scms.fudan.edu.cn/), Fudan University.
 
-My research interest includes Hamiltonian systems, Hamilton-Jacobi Equations, Aubry-Mather Theory, Weak KAM Theory and Mean Field Games.
+My research interest includes Hamiltonian dynamics, Hamilton-Jacobi Equations, Weak KAM Theory and Aubry-Mather theory.
 
-Here is my email address: [panruini@imj-prg.fr](panruini@imj-prg.fr) and my [researchgate homepage](https://www.researchgate.net/profile/Panrui-Ni).
+My mail address: [panruini@imj-prg.fr](panruini@imj-prg.fr) & [panruini@gmail.com](panruini@gmail.com).
+
+My phone number in France: (+33) 749779406
+
+My Office: Campus Pierre et Marie Curie, 15–25 501, 75005 Paris, France
+
+My [researchgate homepage](https://www.researchgate.net/profile/Panrui-Ni).
 
 Education
 ======
