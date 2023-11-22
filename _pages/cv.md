@@ -11,9 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Sep. 2018 – Jun. 2023: PhD, Fudan University, Shanghai, China. Major: Mathematics. Thesis title: Viscosity solutions of contact-type Hamilton-Jacobi equations.
 
 Work experience
 ======
