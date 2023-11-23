@@ -1,24 +1,13 @@
 ---
-title: "Viscosity solutions of contact Hamilton-Jacobi equations with Hamiltonians depending periodically on unknown functions"
+title: "Aubry-Mather theory for contact Hamiltonian systems III"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about H-J equations with the Hamiltonian periodic in the unknown function.'
+excerpt: 'This paper is about the topological dynamics of the Aubry sets for contact Hamiltonian systems.'
 date: 2023-02-01
-venue: 'Communications on Pure and Applied Analysis'
-paperurl: 'https://www.aimsciences.org//article/doi/10.3934/cpaa.2023005'
-citation: 'P. Ni, K. Wang and J. Yan, Viscosity solutions of contact Hamilton-Jacobi equations with Hamiltonians depending periodically on unknown functions, Comm. Pure Appl. Anal., 22 (2023), 668 -- 685.'
+venue: 'SCIENCE CHINA Mathematics'
+paperurl: 'https://www.sciengine.com/SCM/doi/10.1007/s11425-022-2197-4'
+citation: 'P. Ni and L. Wang, Aubry-Mather theory for contact Hamiltonian systems III, SCIENCE CHINA Mathematics, uplished online, 2023.'
 ---
 
-This paper is about H-J equations with the Hamiltonian periodic in the unknown function. We proved that the set C of all c's such that
-
-H(x,Du(x),u(x))=c
-
-has viscosity solutions is a compact interval. We also proved that the solutions of
-
-∂_t u(x,t)+H(x,∂_x u(x,t),u(x,t))=c
-
-is uniformly bounded and equi-Lipschitz continuous for all c in C.
-
-[Download paper here](../assets/2.pdf)
-
-Recommended citation: P. Ni, K. Wang and J. Yan, Viscosity solutions of contact Hamilton-Jacobi equations with Hamiltonians depending periodically on unknown functions, Comm. Pure Appl. Anal., 22 (2023), 668 -- 685
+In view of Aubry-Mather theory and weak KAM theory in Hamiltonian systems, the Aubry set plays a central role in exploiting the dynamics of action minimizing orbits. Let H(x,p,u) be non-decreasing in u. If H is independent of u , it is well known that the Aubry set is chain-recurrent. Unfortunately, it is not true in the contact setting. The Aubry set may contain wandering points. In this work, we provided a criterion for the existence of a pseudo-orbit of the contact Hamiltonian system from one given point X 1 ∈ T ∗ M × R to another given point
+X 2 ∈ T ∗ M ×R . As a consequence, we proved the non-wandering property of the strongly static set, as a new flow-invariant set between the Mather set and the Aubry set.
