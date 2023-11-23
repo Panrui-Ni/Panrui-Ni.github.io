@@ -1,7 +1,7 @@
 ---
 title: "A representation formula of the viscosity solution of the contact Hamilton-Jacobi equation and its applications"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2024-01-01-paper-title-number-3
 excerpt: 'This paper is about the implicit solution semigroup for the standard PDE assumptions.'
 date: 2023-03-01
 venue: 'Chinese Annals of Mathematics, Series B'
