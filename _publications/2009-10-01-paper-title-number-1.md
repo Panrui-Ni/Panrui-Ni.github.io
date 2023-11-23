@@ -6,7 +6,7 @@ excerpt: 'This paper is about H-J equations with the Hamiltonian periodic in the
 date: 2023-02-01
 venue: 'Communications on Pure and Applied Analysis'
 paperurl: 'https://www.aimsciences.org//article/doi/10.3934/cpaa.2023005'
-citation: 'P. Ni, K. Wang and J. Yan, Viscosity solutions of contact Hamilton-Jacobi equations with Hamiltonians depending periodically on unknown functions, Comm. Pure Appl. Anal., 22 (2023), 668 -- 685.'
+citation: 'P. Ni, K. Wang and J. Yan, Viscosity solutions of contact Hamilton-Jacobi equations with Hamiltonians depending periodically on unknown functions, Comm. Pure Appl. Anal., 22 (2023), 668-685.'
 ---
 
 This paper is about H-J equations with the Hamiltonian periodic in the unknown function. We proved that the set C of all c's such that
@@ -21,4 +21,4 @@ is uniformly bounded and equi-Lipschitz continuous for all c in C.
 
 [Download paper here](../assets/2.pdf)
 
-Recommended citation: P. Ni, K. Wang and J. Yan, Viscosity solutions of contact Hamilton-Jacobi equations with Hamiltonians depending periodically on unknown functions, Comm. Pure Appl. Anal., 22 (2023), 668 -- 685
+Recommended citation: P. Ni, K. Wang and J. Yan, Viscosity solutions of contact Hamilton-Jacobi equations with Hamiltonians depending periodically on unknown functions, Comm. Pure Appl. Anal., 22 (2023), 668-685.
