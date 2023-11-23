@@ -20,16 +20,18 @@ Sep. 2014 -- Jun. 2018: Bachelor, [Southeast University](https://www.seu.edu.cn/
 
 Publications
 ======
-1. **Panrui Ni**, Multiple asymptotic behaviors of solutions in the generalized vanishing discount problem, Proceedings of the American Mathematical Society. [link](../assets/1.pdf)
+1. **Panrui Ni**, Multiple asymptotic behaviors of solutions in the generalized vanishing discount problem, Proceedings of the American Mathematical Society, Volume 151, Pages 5239 -- 5250, 2023. [link](../assets/1.pdf)
 2. **Panrui Ni**, K. Wang, and J. Yan, Viscosity solutions of contact Hamilton-Jacobi equations with Hamiltonians
 depending periodically on unknown functions, Communications on Pure and Applied Analysis, Volume 22, Issue 2, Pages 668 -- 685, 2023. [link](../assets/2.pdf)
-3. P. Ni, K. Wang, and J. Yan, A weakly coupled mean field games model of first order for k groups of major players, Proceedings of the American Mathematical Society. [link](https://doi.org/10.1090/proc/16342)
-4. P. Ni and B. Shen, On variation of action integral in Finsler gravity, Annals of Physics, Volume 404, Issue 1, Pages 93 -- 114, 2019. [link](https://www.sciencedirect.com/science/article/abs/pii/S0003491619300430)
-5. P. Ni, L. Wang and J. Yan, A representation formula of the viscosity solution of the contact Hamilton-Jacobi equation and its application, Chinese Annals of Mathematics, Series B, accepted.
-6. P. Ni and L. Wang, Aubry-Mather theory for contact Hamiltonian systems III, SCIENCE CHINA Mathematics, accepted.
-7. P. Ni, Weakly coupled Hamilton-Jacobi systems without monotonicity condition: A first step. [link](https://arxiv.org/abs/2112.04885)
-8. P. Ni and L. Wang, A nonlinear semigroup approach to Hamilton-Jacobi equations–revisited. [link](https://arxiv.org/abs/2202.11315)
-9. P. Ni and L. Wang, On Mather’s Lipschitz graph theorem of the Aubry set for contact Hamiltonian systems, submitted.
+3. **Panrui Ni**, K. Wang, and J. Yan, A weakly coupled mean field games model of first order for k groups of major players, Proceedings of the American Mathematical Society, published online. [link](../assets/3.pdf)
+4. **Panrui Ni**, L. Wang and J. Yan, A representation formula of the viscosity solution of the contact Hamilton-Jacobi equation and its application, Chinese Annals of Mathematics, Series B, accepted. [link](https://arxiv.org/abs/2101.00446)
+5. **Panrui Ni** and L. Wang, Aubry-Mather theory for contact Hamiltonian systems III, SCIENCE CHINA Mathematics, accepted. [link](../assets/4.pdf)
+6. **Panrui Ni**, Weakly coupled Hamilton-Jacobi systems without monotonicity condition: A first step. [link](https://arxiv.org/abs/2112.04885)
+7. **Panrui Ni** and L. Wang, A nonlinear semigroup approach to Hamilton-Jacobi equations–revisited. [link](https://arxiv.org/abs/2202.11315)
+8. **Panrui Ni** and B. Shen, On variation of action integral in Finsler gravity, Annals of Physics, Volume 404, Issue 1, Pages 93 -- 114, 2019. [link](https://www.sciencedirect.com/science/article/abs/pii/S0003491619300430)
+9. **Panrui Ni** and L. Wang, On Mather’s Lipschitz graph theorem of the Aubry set for contact Hamiltonian systems, submitted.
+10. A. Davini, **Panrui Ni** and L. Wang, Discounted approximation from the negative direction on the circle, in preparation.
+11. **Panrui Ni**, Time periodic solutions of first order mean field games from the perspective of Mather theory, in preparation.
 
 Awards
 ------
