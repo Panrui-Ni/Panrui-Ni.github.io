@@ -3,7 +3,7 @@ title: "Aubry-Mather theory for contact Hamiltonian systems III"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the topological dynamics of the Aubry sets for contact Hamiltonian systems.'
-date: 2023-02-01
+date: 2023-08-23
 venue: 'SCIENCE CHINA Mathematics'
 paperurl: 'https://www.sciengine.com/SCM/doi/10.1007/s11425-022-2197-4'
 citation: 'P. Ni and L. Wang, Aubry-Mather theory for contact Hamiltonian systems III, SCIENCE CHINA Mathematics, uplished online, 2023.'
