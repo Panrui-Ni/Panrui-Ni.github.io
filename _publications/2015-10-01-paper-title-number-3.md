@@ -6,7 +6,7 @@ excerpt: 'This paper is about a counter example for vanishing discount problem w
 date: 2023-2-01
 venue: 'Proceedings of the American Mathematical Society'
 paperurl: 'https://doi.org/10.1090/proc/16420'
-citation: 'P. Ni, Multiple asymptotic behaviors of solutions in the generalized vanishing discount problem, Proceedings of the American Mathematical Society, published online.'
+citation: 'P. Ni, Multiple asymptotic behaviors of solutions in the generalized vanishing discount problem, Proc. Amer. Math. Soc. 151 (2023), 5239-5250.'
 ---
 
 Considered the discounted Hamilton-Jacobi equation
@@ -24,6 +24,6 @@ is unique, where a(x)≥0 and a(x)>0 on the Aubry set of H(x,p). Moreover, the c
 [2] M. Zavidovique, Convergence of solutions for some degenerate discounted Hamilton-Jacobi equations. Analysis & PDE, 15 (2022),  1287–1311.
 
 
-[Download paper here](https://doi.org/10.1090/proc/16420)
+[Download paper here](../assets/1.pdf)
 
-Recommended citation: P. Ni, Multiple asymptotic behaviors of solutions in the generalized vanishing discount problem, Proceedings of the American Mathematical Society, published online.
+Recommended citation: P. Ni, Multiple asymptotic behaviors of solutions in the generalized vanishing discount problem, Proc. Amer. Math. Soc. 151 (2023), 5239-5250.
