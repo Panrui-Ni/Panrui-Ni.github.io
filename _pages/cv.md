@@ -10,13 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ---
-permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+
 ---
 
 
