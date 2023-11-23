@@ -1,7 +1,7 @@
 ---
 title: "Aubry-Mather theory for contact Hamiltonian systems III"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2023-8-01-paper-title-number-3
 excerpt: 'This paper is about the topological dynamics of the Aubry sets for contact Hamiltonian systems.'
 date: 2023-08-23
 venue: 'SCIENCE CHINA Mathematics'
