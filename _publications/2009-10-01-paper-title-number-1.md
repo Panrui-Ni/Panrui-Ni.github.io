@@ -19,6 +19,6 @@ has viscosity solutions is a compact interval. We also proved that the solutions
 
 is uniformly bounded and equi-Lipschitz continuous for all c in C.
 
-[Download paper here](../assets/3.pdf)
+[Download paper here](../assets/2.pdf)
 
 Recommended citation: P. Ni, K. Wang and J. Yan, Viscosity solutions of contact Hamilton-Jacobi equations with Hamiltonians depending periodically on unknown functions, Comm. Pure Appl. Anal., 22 (2023), 668 -- 685
