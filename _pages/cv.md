@@ -21,7 +21,7 @@ Oct. 2023 -- present: Post-doc, [IMJ-PRG](https://www.imj-prg.fr/), Paris, Franc
 
 Sep. 2018 -- Jun. 2023: PhD, [Fudan University](https://www.fudan.edu.cn/), Shanghai, China. Major: Mathematics. 
 
-Thesis title: Viscosity solutions of contact-type Hamilton-Jacobi equations. You can find my thesis [here](../assets/5.pdf) Advisor: Jun Yan
+Thesis title: Viscosity solutions of contact-type Hamilton-Jacobi equations. You can find my thesis [here](../assets/5.pdf). Advisor: Jun Yan
 
 Sep. 2014 -- Jun. 2018: Bachelor, [Southeast University](https://www.seu.edu.cn/), Nanjing, China. Major: Engineering Mechanics.
 
