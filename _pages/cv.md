@@ -53,6 +53,8 @@ Awards
 
 Conference Activities
 ------
+Jan. 2024: ANR meeting, École normale supérieure de Lyon, Invited speaker. Title: On discrete nonlinear vanishing discount problem.
+
 Jul. 2022: Conference on Differential Equations and Dynamical Systems, Beijing Institue of Technology, Invited speaker. Title: A nonlinear semigroup approach to a class of nonmonotone Hamilton-Jacobi equations.
 
 Jun. 2023: PDE reading seminar online, Invited speaker. Title: Hamilton-Jacobi equations depending Lipschitz continuously on the unknown function. [link](https://www.youtube.com/watch?v=bGkbiBCq85U)
