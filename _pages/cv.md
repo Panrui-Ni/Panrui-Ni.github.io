@@ -30,8 +30,8 @@ Thesis title: Variational principle for contact Hamiltonian systems and its appl
 Publications
 ======
 1. **Panrui Ni**, Multiple asymptotic behaviors of solutions in the generalized vanishing discount problem, Proceedings of the American Mathematical Society, Volume 151, Pages 5239 -- 5250, 2023. [link](../assets/1.pdf)
-2. **Panrui Ni**, Weakly coupled Hamilton-Jacobi systems without monotonicity condition: A first step, Communications on Pure and Applied Analysis, Volume 23, Issue 7, Pages 961 -- 983, 2024. [link](https://arxiv.org/abs/2112.04885)
-3. **Panrui Ni** and L. Wang, A nonlinear semigroup approach to Hamilton-Jacobi equations–revisited, Journal of Differential Equations, 403, 272 -- 307, 2024. [link](https://arxiv.org/abs/2202.11315)
+2. **Panrui Ni**, Weakly coupled Hamilton-Jacobi systems without monotonicity condition: A first step, Communications on Pure and Applied Analysis, Volume 23, Issue 7, Pages 961 -- 983, 2024. [link](../assets/6.pdf)
+3. **Panrui Ni** and L. Wang, A nonlinear semigroup approach to Hamilton-Jacobi equations–revisited, Journal of Differential Equations, 403, 272 -- 307, 2024. [link](../assets/7.pdf)
 4. **Panrui Ni** and L. Wang, Aubry-Mather theory for contact Hamiltonian systems III, SCIENCE CHINA Mathematics, published online. [link](../assets/4.pdf)
 5. **Panrui Ni**, K. Wang, and J. Yan, Viscosity solutions of contact Hamilton-Jacobi equations with Hamiltonians
 depending periodically on unknown functions, Communications on Pure and Applied Analysis, Volume 22, Issue 2, Pages 668 -- 685, 2023. [link](../assets/2.pdf)
