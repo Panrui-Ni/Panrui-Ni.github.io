@@ -36,7 +36,7 @@ Publications
 5. **Panrui Ni**, K. Wang, and J. Yan, Viscosity solutions of contact Hamilton-Jacobi equations with Hamiltonians
 depending periodically on unknown functions, Communications on Pure and Applied Analysis, Volume 22, Issue 2, Pages 668 -- 685, 2023. [link](../assets/2.pdf)
 6. **Panrui Ni**, K. Wang, and J. Yan, A weakly coupled mean field games model of first order for k groups of major players, Proceedings of the American Mathematical Society, published online. [link](../assets/3.pdf)
-7. **Panrui Ni**, L. Wang and J. Yan, A representation formula of the viscosity solution of the contact Hamilton-Jacobi equation and its application, Chinese Annals of Mathematics, Series B, accepted. [link](https://arxiv.org/abs/2101.00446)
+7. **Panrui Ni**, L. Wang and J. Yan, A representation formula of the viscosity solution of the contact Hamilton-Jacobi equation and its application, Chinese Annals of Mathematics, Series B, accepted. [link](../assets/8.pdf)
 8. **Panrui Ni** and B. Shen, On variation of action integral in Finsler gravity, Annals of Physics, Volume 404, Issue 1, Pages 93 -- 114, 2019. [link](https://www.sciencedirect.com/science/article/abs/pii/S0003491619300430)
 
 Preprints
