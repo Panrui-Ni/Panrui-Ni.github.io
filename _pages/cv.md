@@ -17,15 +17,17 @@ redirect_from:
 
 Education
 ======
-Oct. 2023 -- present: Post-doc, [IMJ-PRG](https://www.imj-prg.fr/), Paris, France. Mentor: Maxime Zavidovique
+Oct. 2024 -- present: Visiting researcher, Graduate School of Mathematical Sciences, The University of Tokyo, Tokyo, Japan. Mentor: Hiroyoshi Mitake.
 
-Sep. 2018 -- Jun. 2023: PhD, [Fudan University](https://www.fudan.edu.cn/), Shanghai, China. Major: Mathematics. 
+Oct. 2023 -- Sep. 2024: Post-doc, [IMJ-PRG](https://www.imj-prg.fr/), Paris, France. Mentor: Maxime Zavidovique.
 
-Thesis title: Viscosity solutions of contact-type Hamilton-Jacobi equations. You can find my thesis [here](../assets/5.pdf). Advisor: Jun Yan
+Sep. 2018 -- Jun. 2023: PhD, [Fudan University](https://www.fudan.edu.cn/), Shanghai, China. Major: Mathematics.
+
+Thesis title: Viscosity solutions of contact-type Hamilton-Jacobi equations. You can find my thesis [here](../assets/5.pdf). Advisor: Jun Yan.
 
 Sep. 2014 -- Jun. 2018: Bachelor, [Southeast University](https://www.seu.edu.cn/), Nanjing, China. Major: Engineering Mechanics.
 
-Thesis title: Variational principle for contact Hamiltonian systems and its applications. Advisor: Changwen Mi
+Thesis title: Variational principle for contact Hamiltonian systems and its applications. Advisor: Changwen Mi.
 
 Publications
 ======
