@@ -44,10 +44,11 @@ depending periodically on unknown functions, Communications on Pure and Applied 
 
 Preprints
 ======
-1. H. Mitake, **Panrui Ni**, Rate of convergence for homogenization of nonlinear weakly coupled Hamilton-Jacobi systems. [link](https://arxiv.org/abs/2412.06428)
-2. A. Davini, **Panrui Ni**, J. Yan and M. Zavidovique, Convergence/divergence phenomena in the vanishing discount limit of Hamilton-Jacobi equations. [link](https://arxiv.org/abs/2411.13780)
-3. **Panrui Ni** and M. Zavidovique, Nonlinear and degenerate discounted approximation in discrete weak KAM theory. [link](https://arxiv.org/abs/2403.04563)
-4. **Panrui Ni** and L. Wang, On Mather’s Lipschitz graph theorem of the Aubry set for contact Hamiltonian systems, submitted.
+1. H. Mitake, **Panrui Ni**, Quantitative homogenization of convex Hamilton-Jacobi equations with Neumann type boundary conditions. [link](https://arxiv.org/abs/2501.12013)
+2. H. Mitake, **Panrui Ni**, Rate of convergence for homogenization of nonlinear weakly coupled Hamilton-Jacobi systems. [link](https://arxiv.org/abs/2412.06428)
+3. A. Davini, **Panrui Ni**, J. Yan and M. Zavidovique, Convergence/divergence phenomena in the vanishing discount limit of Hamilton-Jacobi equations. [link](https://arxiv.org/abs/2411.13780)
+4. **Panrui Ni** and M. Zavidovique, Nonlinear and degenerate discounted approximation in discrete weak KAM theory. [link](https://arxiv.org/abs/2403.04563)
+5. **Panrui Ni** and L. Wang, On Mather’s Lipschitz graph theorem of the Aubry set for contact Hamiltonian systems, submitted.
 
 Awards
 ------
