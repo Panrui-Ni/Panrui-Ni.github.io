@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Hi, I'm Panrui Ni (倪盼睿).
+# Hi, I'm Panrui Ni (倪盼睿)
 
 Welcome to my webpage!
 
