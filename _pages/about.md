@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About me"
+title: "Hi, I'm Panrui Ni (倪盼睿)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Hi, I'm Panrui Ni (倪盼睿)
 
 Welcome to my webpage!
 
