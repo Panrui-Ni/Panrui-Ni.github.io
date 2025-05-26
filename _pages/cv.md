@@ -31,22 +31,22 @@ Thesis title: Variational principle for contact Hamiltonian systems and its appl
 
 Publications
 ======
-1. Multiple asymptotic behaviors of solutions in the generalized vanishing discount problem, Proceedings of the American Mathematical Society, Volume 151, Pages 5239 -- 5250, 2023. [link](../assets/1.pdf)
-2. Time periodic solutions of first order mean field games from the perspective of Mather theory, Journal of Differential Equations, Volume 412, Pages 881 -- 901, 2024. [link](https://arxiv.org/abs/2401.07155)
-3. Weakly coupled Hamilton-Jacobi systems without monotonicity condition: A first step, Communications on Pure and Applied Analysis, Volume 23, Issue 7, Pages 961 -- 983, 2024. [link](../assets/6.pdf)
-4. A nonlinear semigroup approach to Hamilton-Jacobi equations–revisited (with L. Wang), Journal of Differential Equations, 403, 272 -- 307, 2024. [link](../assets/7.pdf)
-5. Aubry-Mather theory for contact Hamiltonian systems III (with L. Wang), SCIENCE CHINA Mathematics, published online. [link](../assets/4.pdf)
-6. Viscosity solutions of contact Hamilton-Jacobi equations with Hamiltonians depending periodically on unknown functions (with K. Wang and J. Yan), Communications on Pure and Applied Analysis, Volume 22, Issue 2, Pages 668 -- 685, 2023. [link](../assets/2.pdf)
-7. A weakly coupled mean field games model of first order for k groups of major players (with K. Wang and J. Yan), Proceedings of the American Mathematical Society, published online. [link](../assets/3.pdf)
-8. A representation formula of the viscosity solution of the contact Hamilton-Jacobi equation and its application (with L. Wang and J. Yan), Chinese Annals of Mathematics, Series B, accepted. [link](../assets/8.pdf)
-9. On variation of action integral in Finsler gravity (with B. Shen), Annals of Physics, Volume 404, Issue 1, Pages 93 -- 114, 2019. [link](https://www.sciencedirect.com/science/article/abs/pii/S0003491619300430)
+1. Quantitative homogenization of convex Hamilton-Jacobi equations with Neumann type boundary conditions (with H. Mitake), Journal of Differential Equations 440 (2025) 113442.
+2. Nonlinear and degenerate discounted approximation in discrete weak KAM theory (with M. Zavidovique), Mathematische Zeitschrift (2025) 310:63 [link](https://doi.org/10.1007/s00209-025-03779-7).
+3. Multiple asymptotic behaviors of solutions in the generalized vanishing discount problem, Proceedings of the American Mathematical Society, Volume 151, Pages 5239 -- 5250, 2023. [link](../assets/1.pdf)
+4. Time periodic solutions of first order mean field games from the perspective of Mather theory, Journal of Differential Equations, Volume 412, Pages 881 -- 901, 2024. [link](https://arxiv.org/abs/2401.07155)
+5. Weakly coupled Hamilton-Jacobi systems without monotonicity condition: A first step, Communications on Pure and Applied Analysis, Volume 23, Issue 7, Pages 961 -- 983, 2024. [link](../assets/6.pdf)
+6. A nonlinear semigroup approach to Hamilton-Jacobi equations–revisited (with L. Wang), Journal of Differential Equations, 403, 272 -- 307, 2024. [link](../assets/7.pdf)
+7. Aubry-Mather theory for contact Hamiltonian systems III (with L. Wang), SCIENCE CHINA Mathematics, published online. [link](../assets/4.pdf)
+8. Viscosity solutions of contact Hamilton-Jacobi equations with Hamiltonians depending periodically on unknown functions (with K. Wang and J. Yan), Communications on Pure and Applied Analysis, Volume 22, Issue 2, Pages 668 -- 685, 2023. [link](../assets/2.pdf)
+9. A weakly coupled mean field games model of first order for k groups of major players (with K. Wang and J. Yan), Proceedings of the American Mathematical Society, published online. [link](../assets/3.pdf)
+10. A representation formula of the viscosity solution of the contact Hamilton-Jacobi equation and its application (with L. Wang and J. Yan), Chinese Annals of Mathematics, Series B, accepted. [link](../assets/8.pdf)
+11. On variation of action integral in Finsler gravity (with B. Shen), Annals of Physics, Volume 404, Issue 1, Pages 93 -- 114, 2019. [link](https://www.sciencedirect.com/science/article/abs/pii/S0003491619300430)
 
 Preprints
 ======
-1. Quantitative homogenization of convex Hamilton-Jacobi equations with Neumann type boundary conditions (with H. Mitake). [link](https://arxiv.org/abs/2501.12013)
-2. Rate of convergence for homogenization of nonlinear weakly coupled Hamilton-Jacobi systems (with H. Mitake). [link](https://arxiv.org/abs/2412.06428)
-3. Convergence/divergence phenomena in the vanishing discount limit of Hamilton-Jacobi equations (with A. Davini, J. Yan and M. Zavidovique). [link](https://arxiv.org/abs/2411.13780)
-4. Nonlinear and degenerate discounted approximation in discrete weak KAM theory (with M. Zavidovique). [link](https://arxiv.org/abs/2403.04563)
+1. Rate of convergence for homogenization of nonlinear weakly coupled Hamilton-Jacobi systems (with H. Mitake). [link](https://arxiv.org/abs/2412.06428)
+2. Convergence/divergence phenomena in the vanishing discount limit of Hamilton-Jacobi equations (with A. Davini, J. Yan and M. Zavidovique). [link](https://arxiv.org/abs/2411.13780)
 
 Awards
 ------
