@@ -31,7 +31,7 @@ Thesis title: Variational principle for contact Hamiltonian systems and its appl
 
 Publications
 ======
-1. Quantitative homogenization of convex Hamilton-Jacobi equations with Neumann type boundary conditions (with H. Mitake), Journal of Differential Equations 440 (2025) 113442.
+1. Rate of convergence for homogenization of nonlinear weakly coupled Hamilton-Jacobi systems (with H. Mitake), Journal of Differential Equations 440 (2025) 113442.
 2. Nonlinear and degenerate discounted approximation in discrete weak KAM theory (with M. Zavidovique), Mathematische Zeitschrift (2025) 310:63 [link](https://doi.org/10.1007/s00209-025-03779-7).
 3. Multiple asymptotic behaviors of solutions in the generalized vanishing discount problem, Proceedings of the American Mathematical Society, Volume 151, Pages 5239 -- 5250, 2023. [link](../assets/1.pdf)
 4. Time periodic solutions of first order mean field games from the perspective of Mather theory, Journal of Differential Equations, Volume 412, Pages 881 -- 901, 2024. [link](https://arxiv.org/abs/2401.07155)
@@ -45,7 +45,7 @@ Publications
 
 Preprints
 ======
-1. Rate of convergence for homogenization of nonlinear weakly coupled Hamilton-Jacobi systems (with H. Mitake). [link](https://arxiv.org/abs/2412.06428)
+1. Quantitative homogenization of convex Hamilton-Jacobi equations with Neumann type boundary conditions (with H. Mitake). [link](https://arxiv.org/abs/2501.12013)
 2. Convergence/divergence phenomena in the vanishing discount limit of Hamilton-Jacobi equations (with A. Davini, J. Yan and M. Zavidovique). [link](https://arxiv.org/abs/2411.13780)
 
 Awards
