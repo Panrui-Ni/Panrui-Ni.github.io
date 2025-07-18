@@ -45,8 +45,9 @@ Publications
 
 Preprints
 ======
-1. Quantitative homogenization of convex Hamilton-Jacobi equations with Neumann type boundary conditions (with H. Mitake). [link](https://arxiv.org/abs/2501.12013)
-2. Convergence/divergence phenomena in the vanishing discount limit of Hamilton-Jacobi equations (with A. Davini, J. Yan and M. Zavidovique). [link](https://arxiv.org/abs/2411.13780)
+1. Quantitative homogenization of convex Hamilton-Jacobi equations with u/ε-periodic Hamiltonians (with H. Mitake and H. V. Tran). [link](https://arxiv.org/abs/2507.00663)
+2. Quantitative homogenization of convex Hamilton-Jacobi equations with Neumann type boundary conditions (with H. Mitake). [link](https://arxiv.org/abs/2501.12013)
+3. Convergence/divergence phenomena in the vanishing discount limit of Hamilton-Jacobi equations (with A. Davini, J. Yan and M. Zavidovique). [link](https://arxiv.org/abs/2411.13780)
 
 Awards
 ------
