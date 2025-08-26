@@ -61,6 +61,8 @@ Awards
 
 Conference Activities
 ------
+Jun. 2025: Recent progress in Hamilton-Jacobi equations and related topics, Nanjing University. Title: Convergence/divergence phenomena in the vanishing discount limit of Hamilton-Jacobi equations.
+
 Jan. 2024: ANR meeting, École normale supérieure de Lyon, Invited speaker. Title: On discrete nonlinear vanishing discount problem.
 
 Jul. 2022: Conference on Differential Equations and Dynamical Systems, Beijing Institue of Technology, Invited speaker. Title: A nonlinear semigroup approach to a class of nonmonotone Hamilton-Jacobi equations.
