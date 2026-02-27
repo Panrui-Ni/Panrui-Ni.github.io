@@ -17,7 +17,7 @@ redirect_from:
 
 Education
 ======
-Oct. 2024 -- present: Postdoc, Graduate School of Mathematical Sciences, The University of Tokyo, Tokyo, Japan. Mentor: Hiroyoshi Mitake.
+Oct. 2024 -- Present: Postdoc, Graduate School of Mathematical Sciences, The University of Tokyo, Tokyo, Japan. Mentor: Hiroyoshi Mitake.
 
 Oct. 2023 -- Sep. 2024: Postdoc, [IMJ-PRG](https://www.imj-prg.fr/), Paris, France. Mentor: Maxime Zavidovique.
 
