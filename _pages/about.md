@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my webpage!
 
-I am currently a visiting researcher at [Graduate School of Mathematical Sciences, The University of Tokyo](https://www.ms.u-tokyo.ac.jp/). My mentor is [Prof. Hiroyoshi Mitake](https://scholar.google.com/citations?user=ipRPxJIAAAAJ&hl=ja).
+I am currently a postdoctoral researcher at [Graduate School of Mathematical Sciences, The University of Tokyo](https://www.ms.u-tokyo.ac.jp/). My mentor is [Prof. Hiroyoshi Mitake](https://scholar.google.com/citations?user=ipRPxJIAAAAJ&hl=ja).
 
 I was a postdoc at [Institut de Mathématiques de Jussieu-Paris Rive Gauche](https://www.imj-prg.fr/), from October 1, 2023 to September 30, 2024. I was mentored by [Prof. Maxime Zavidovique](https://webusers.imj-prg.fr/~maxime.zavidovique/).
 
