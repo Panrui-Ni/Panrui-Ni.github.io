@@ -62,17 +62,17 @@ Awards
 
 Conference Activities
 ------
+Nov. 2025: Viscosity Solutions of Differential Equations and Related Topics, RIMS, Kyoto University. Title: Quantitative Homogenization of Convex Hamilton-Jacobi Equations with u/ε-Periodic Hamiltonians.
+
 Jun. 2025: Recent progress in Hamilton-Jacobi equations and related topics, Nanjing University. Title: Convergence/divergence phenomena in the vanishing discount limit of Hamilton-Jacobi equations.
 
 Jan. 2024: ANR meeting, École normale supérieure de Lyon, Invited speaker. Title: On discrete nonlinear vanishing discount problem.
 
 Jul. 2022: Conference on Differential Equations and Dynamical Systems, Beijing Institue of Technology, Invited speaker. Title: A nonlinear semigroup approach to a class of nonmonotone Hamilton-Jacobi equations.
 
-Jun. 2023: PDE reading seminar online, Invited speaker. Title: Hamilton-Jacobi equations depending Lipschitz continuously on the unknown function. [link](https://www.youtube.com/watch?v=bGkbiBCq85U)
 
 Teaching Activities
 ------
-Feb. 2021 -- Jun. 2021: Teaching assistant in Fudan University, Course: Calculus.
 
 Sep. 2020 -- Jan. 2021: Teaching assistant in Fudan University, Course: Classical Mechanics.
 
