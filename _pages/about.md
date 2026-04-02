@@ -16,7 +16,7 @@ Previously, I was a postdoc at [Graduate School of Mathematical Sciences, The Un
 
 I obtained my PhD degree from [Shanghai Center for Mathematical Sciences](https://scms.fudan.edu.cn/), Fudan University, on June 14, 2023. I was advised by [Prof. Jun Yan](https://www.researchgate.net/profile/Jun-Yan-79).
 
-My research interest includes weak KAM theory, Aubry–Mather theory, Hamilton–Jacobi equations. You can find my CV here: [CV](../assets/CV.pdf).
+My research interest includes weak KAM theory, Aubry–Mather theory, and Hamilton–Jacobi equations. You can find my CV here: [CV](../assets/CV.pdf).
 
 My email address is: panruini@gmail.com
 
