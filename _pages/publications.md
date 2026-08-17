@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Publications
-
 1. H. Mitake, **P. Ni**, *Quantitative homogenization of convex Hamilton--Jacobi equations with Neumann type boundary conditions*, **Calculus of Variations and Partial Differential Equations**, 65:154 (2026).
 
 2. H. Mitake, **P. Ni**, *Rate of convergence for homogenization of nonlinear weakly coupled Hamilton--Jacobi systems*, **Journal of Differential Equations**, 440:113442 (2025).
