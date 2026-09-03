@@ -31,14 +31,16 @@ author_profile: true
 
 ## Preprints
 
-1. **P. Ni**, *Quantitative homogenization of first-order ODEs*, arXiv:2508.17628.
+1. **P. Ni**, Sharp convergence rates for the vanishing discount problem with hyperbolic Aubry sets, arXiv:2609.02779.
 
-2. H. Mitake, **P. Ni**, H. V. Tran, *Quantitative homogenization of convex Hamilton--Jacobi equations with \(u/\varepsilon\)-periodic Hamiltonians*, arXiv:2507.00663.
+2. **P. Ni**, *Quantitative homogenization of first-order ODEs*, arXiv:2508.17628.
 
-3. A. Davini, **P. Ni**, J. Yan, M. Zavidovique, *Convergence/divergence phenomena in the vanishing discount limit of Hamilton--Jacobi equations*, arXiv:2411.13780.
+3. H. Mitake, **P. Ni**, H. V. Tran, *Quantitative homogenization of convex Hamilton--Jacobi equations with \(u/\varepsilon\)-periodic Hamiltonians*, arXiv:2507.00663.
 
-4. **P. Ni**, J. Yan, M. Zavidovique, *Static class-guided selection of elementary solutions in non-monotone vanishing discount problems*, arXiv:2602.09697.
+4. A. Davini, **P. Ni**, J. Yan, M. Zavidovique, *Convergence/divergence phenomena in the vanishing discount limit of Hamilton--Jacobi equations*, arXiv:2411.13780.
 
-5. **P. Ni**, J. Yan, *A PDE formulation of Lyapunov stability for contact-type Hamilton--Jacobi equations*, arXiv:2604.24329.
+5. **P. Ni**, J. Yan, M. Zavidovique, *Static class-guided selection of elementary solutions in non-monotone vanishing discount problems*, arXiv:2602.09697.
 
-6. H. Mitake, **P. Ni**, *Optimal semiconcavity with fractional modulus for Hamilton--Jacobi equations with Neumann boundary conditions*, arXiv:2605.23248.
+6. **P. Ni**, J. Yan, *A PDE formulation of Lyapunov stability for contact-type Hamilton--Jacobi equations*, arXiv:2604.24329.
+
+7. H. Mitake, **P. Ni**, *Optimal semiconcavity with fractional modulus for Hamilton--Jacobi equations with Neumann boundary conditions*, arXiv:2605.23248.
