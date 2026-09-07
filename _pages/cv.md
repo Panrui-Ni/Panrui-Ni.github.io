@@ -57,6 +57,7 @@ Referee for journals including:
 
 - *SIAM Journal on Mathematical Analysis*
 - *Calculus of Variations and Partial Differential Equations*
+- *Nonlinearity*
 
 ## More
 
