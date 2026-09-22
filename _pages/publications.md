@@ -37,7 +37,7 @@ author_profile: true
 
 3. H. Mitake, **P. Ni**, H. V. Tran, *Quantitative homogenization of convex Hamilton--Jacobi equations with \(u/\varepsilon\)-periodic Hamiltonians*, arXiv:2507.00663.
 
-4. H. Mitake, P. Ni, H. V. Tran, *Vanishing discount and viscosity selection problems for mechanical Hamilton–Jacobi equations*, arXiv:2609.24009.
+4. H. Mitake, P. Ni, H. V. Tran, *Vanishing discount and viscosity selection problems for mechanical Hamilton--Jacobi equations*, arXiv:2609.24009.
 
 5. A. Davini, **P. Ni**, J. Yan, M. Zavidovique, *Convergence/divergence phenomena in the vanishing discount limit of Hamilton--Jacobi equations*, arXiv:2411.13780.
 
