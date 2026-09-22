@@ -37,10 +37,12 @@ author_profile: true
 
 3. H. Mitake, **P. Ni**, H. V. Tran, *Quantitative homogenization of convex Hamilton--Jacobi equations with \(u/\varepsilon\)-periodic Hamiltonians*, arXiv:2507.00663.
 
-4. A. Davini, **P. Ni**, J. Yan, M. Zavidovique, *Convergence/divergence phenomena in the vanishing discount limit of Hamilton--Jacobi equations*, arXiv:2411.13780.
+4. H. Mitake, P. Ni, H. V. Tran, *Vanishing discount and viscosity selection problems for mechanical Hamilton–Jacobi equations*, arXiv:2609.24009.
 
-5. **P. Ni**, J. Yan, M. Zavidovique, *Static class-guided selection of elementary solutions in non-monotone vanishing discount problems*, arXiv:2602.09697.
+5. A. Davini, **P. Ni**, J. Yan, M. Zavidovique, *Convergence/divergence phenomena in the vanishing discount limit of Hamilton--Jacobi equations*, arXiv:2411.13780.
 
-6. **P. Ni**, J. Yan, *A PDE formulation of Lyapunov stability for contact-type Hamilton--Jacobi equations*, arXiv:2604.24329.
+6. **P. Ni**, J. Yan, M. Zavidovique, *Selection of critical solutions in non-monotone vanishing discount problems*, arXiv:2609.24032.
 
-7. H. Mitake, **P. Ni**, *Optimal semiconcavity with fractional modulus for Hamilton--Jacobi equations with Neumann boundary conditions*, arXiv:2605.23248.
+7. **P. Ni**, J. Yan, *A PDE formulation of Lyapunov stability for contact-type Hamilton--Jacobi equations*, arXiv:2604.24329.
+
+8. H. Mitake, **P. Ni**, *Optimal semiconcavity with fractional modulus for Hamilton--Jacobi equations with Neumann boundary conditions*, arXiv:2605.23248.
