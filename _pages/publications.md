@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-1. **P. Ni**, *Quantitative homogenization of first-order ODEs*, Nonlinearity, accepted.
+1. **P. Ni**, *Quantitative homogenization of first-order ODEs*, Nonlinearity, 39 (2026), 105015.
 
 2. H. Mitake, **P. Ni**, *Quantitative homogenization of convex Hamilton--Jacobi equations with Neumann type boundary conditions*, **Calculus of Variations and Partial Differential Equations**, 65:154 (2026).
 
