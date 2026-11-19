@@ -18,6 +18,8 @@ I received my PhD from [Shanghai Center for Mathematical Sciences](https://scms.
 
 My research interests include Hamilton–Jacobi equations, weak KAM and Aubry–Mather theory, and homogenization. You can find my CV here: [CV](../assets/CV.pdf).
 
+I also maintain a [Hamilton–Jacobi Research Atlas](https://panrui-ni.github.io/hj-research-atlas/?utm_source=chatgpt.com#research-areas), a curated bibliography organized by research topics and mathematical contributions.
+
 My email address is: panruini@gmail.com
 
 Office: Room 11A, 17F, Bldg. 51, Center for Science and Engineering, 3-4-1 Okubo, Shinjuku-ku, Tokyo 169-8555, Japan.
